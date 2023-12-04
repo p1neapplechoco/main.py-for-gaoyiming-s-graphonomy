@@ -26,3 +26,5 @@ python main.py
 ```
 
 if done correctly, outputs should be in `image-parse`.
+
+remember to delete all the output files in `image-parse` if you want to reuse
